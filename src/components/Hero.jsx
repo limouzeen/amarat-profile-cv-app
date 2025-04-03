@@ -64,7 +64,7 @@ export default function Hero() {
             variant="body1"
             sx={{ mb: 4, fontSize: { xs: '1rem', md: '1.125rem' } }}
           >
-            นักพัฒนาเว็บไซต์ฝั่ง Front-End ที่มีความหลงใหลในการสร้างเว็บไซต์ที่เข้าถึงได้และเป็นมิตรกับผู้ใช้ @^0^@
+            มีความสนใจในเทคโนโลยีและนวัตกรรมใหม่ๆ สนใจในเว็บไซต์ฝั่ง Front-End ที่มีความหลงใหลในการสร้างเว็บไซต์ที่เข้าถึงได้และเป็นมิตรกับผู้ใช้ @^0^@
           </Typography>
 
           <Stack direction="row" spacing={2} alignItems="center">
