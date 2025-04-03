@@ -11,7 +11,7 @@ A futuristic, neon-style personal portfolio built with **React.js** and **Materi
 - **Frontend**: React.js (with Vite)
 - **UI Framework**: Material UI (MUI)
 - **Styling**: Custom CSS + MUI's SX Prop
-- **Fonts**: Google Fonts (`Poppins`, `Kanit`, `DM Serif Text`)
+- **Fonts**: Google Fonts Kanit
 - **Icons**: MUI Icons
 - **Deployment**: Vercel
 
