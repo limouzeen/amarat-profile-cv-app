@@ -18,7 +18,7 @@ export default function YoutubeEmbed() {
       <iframe
         width="100%"
         height="100%"
-        src="https://www.youtube.com/embed/oQjcJBGIFsA?autoplay=1&mute=1&rel=0&showinfo=0"
+        src="https://youtu.be/y4TANcHYGZI?si=2t4d-4cNzKHVZvjR"
         title="YouTube video player"
         frameBorder="0"
         allow="autoplay; encrypted-media"
